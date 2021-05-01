@@ -19,6 +19,7 @@ $RECYCLE.BIN/
 *.lnk
 *.bak
 *.tbk
+*.fxp
 
 # =========================
 # Operating System Files
